@@ -1,0 +1,5 @@
+function cuadrado (n) {
+	
+}
+
+cuadrado()
